@@ -1,6 +1,7 @@
 package HibernateJPATest.model;
 
 import javax.persistence.*;
+import java.util.Collection;
 
 /**
  * Created with IntelliJ IDEA.
@@ -10,7 +11,7 @@ import javax.persistence.*;
  * To change this template use File | Settings | File Templates.
  */
 @Entity
-public class MainMenuEntry {
+public class MenuEntry {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
@@ -48,7 +49,7 @@ public class MainMenuEntry {
 
     @Override
     public String toString() {
-        return "MainMenuEntry{" +
+        return "MenuEntry{" +
                 "id=" + id +
                 ", caption='" + caption + '\'' +
                 ", href='" + href + '\'' +
@@ -60,11 +61,11 @@ public class MainMenuEntry {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
 
-        MainMenuEntry mainMenuEntry = (MainMenuEntry) o;
+        MenuEntry menuEntry = (MenuEntry) o;
 
-        if (!caption.equals(mainMenuEntry.caption)) return false;
-        if (!href.equals(mainMenuEntry.href)) return false;
-        if (!id.equals(mainMenuEntry.id)) return false;
+        if (!caption.equals(menuEntry.caption)) return false;
+        if (!href.equals(menuEntry.href)) return false;
+        if (!id.equals(menuEntry.id)) return false;
 
         return true;
     }
@@ -75,5 +76,16 @@ public class MainMenuEntry {
         result = 31 * result + caption.hashCode();
         result = 31 * result + href.hashCode();
         return result;
+    }
+
+    @ManyToMany
+    private Collection<Menus> menus;
+
+    public Collection<Menus> getMenus() {
+        return menus;
+    }
+
+    public void setMenus(Collection<Menus> menus) {
+        this.menus = menus;
     }
 }
