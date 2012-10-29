@@ -78,7 +78,7 @@ public class MenuEntry {
         return result;
     }
 
-    @ManyToMany
+    @ManyToMany(fetch = FetchType.EAGER)
     private Collection<Menus> menus;
 
     public Collection<Menus> getMenus() {

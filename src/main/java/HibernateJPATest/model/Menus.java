@@ -37,7 +37,7 @@ public class Menus {
 
     private Collection<MenuEntry> menuEntries;
 
-    @ManyToMany(mappedBy = "menus")
+    @ManyToMany(mappedBy = "menus", fetch = FetchType.EAGER)
     public Collection<MenuEntry> getMenuEntries() {
         return menuEntries;
     }
