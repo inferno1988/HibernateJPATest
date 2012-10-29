@@ -6,8 +6,11 @@
 	version="1.0">
 
 	<persistence-unit name="acme" transaction-type="RESOURCE_LOCAL">
-        <class>HibernateJPATest.model.MainMenuEntry</class>
+        <class>HibernateJPATest.model.MenuEntry</class>
         <class>HibernateJPATest.model.Person</class>
+        <class>HibernateJPATest.model.User</class>
+        <class>HibernateJPATest.model.News</class>
+        <class>HibernateJPATest.model.Menus</class>
         <properties>
 			<property name="hibernate.hbm2ddl.auto" value="create-drop" />
 			<property name="hibernate.show_sql" value="true" />
