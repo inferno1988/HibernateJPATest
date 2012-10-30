@@ -17,15 +17,14 @@ public class News {
     @Id
     private Long id;
 
-    @ManyToOne(cascade = CascadeType.ALL, fetch = FetchType.LAZY, optional = false)
+    @ManyToOne(cascade = CascadeType.ALL, optional = false)
     private User user;
 
     @Basic
     private String theme;
 
     @Lob
-    @Basic(fetch = FetchType.LAZY)
-    @Column(name = "text", nullable = false)
+    @Basic
     private String text;
 
     public Long getId() {
