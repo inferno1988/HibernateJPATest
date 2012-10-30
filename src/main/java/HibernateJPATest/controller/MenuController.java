@@ -7,6 +7,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.transaction.annotation.Transactional;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -32,8 +33,8 @@ public class MenuController {
     @RequestMapping("/topMenu")
     public String generateTopMenu(Model model) {
         logger.info("Building top menu");
-        Menus menuContainer = menusDao.getMenuByName("topMenu");
-        model.addAttribute("menuItems", menuContainer.getMenuEntries());
+        Collection<MenuEntry> menuContainer = menusDao.getAllMenuEntriesByMenuName("topMenu");
+        model.addAttribute("menuItems", menuContainer);
         return "top_menu";
     }
 }

@@ -7,6 +7,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
+import javax.persistence.PersistenceContextType;
 import javax.persistence.Query;
 import java.util.Collection;
 
@@ -30,7 +31,15 @@ public class MenusDao {
 
     public Menus getMenuByName(String name) {
         Query query = entityManager.createQuery("select p from Menus p where p.name = :menuName");
-        query.setParameter("menuName", "topMenu");
+        query.setParameter("menuName", name);
         return (Menus) query.getSingleResult();
+    }
+
+    public Collection<MenuEntry> getAllMenuEntriesByMenuName(String name) {
+        Query query = entityManager.createQuery("select p from Menus p where p.name = :menuName");
+        query.setParameter("menuName", name);
+        Menus menu = (Menus) query.getSingleResult();
+        Collection<MenuEntry>  menuEntries = menu.getMenuEntries();
+        return menuEntries;
     }
 }
