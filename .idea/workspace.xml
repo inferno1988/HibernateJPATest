@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79dcc723-e2a4-4a18-b434-2e4ca5c526e0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/HibernateJPATest.war" afterPath="$PROJECT_DIR$/target/HibernateJPATest.war" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java" afterPath="$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Menus.java" afterPath="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Menus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/HibernateJPATest.controller.PersonControllerTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/HibernateJPATest.controller.PersonControllerTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/HibernateJPATest.dao.PersonDaoTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/HibernateJPATest.dao.PersonDaoTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.controller.HomeControllerTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.controller.HomeControllerTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.controller.PersonControllerTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.controller.PersonControllerTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.dao.PersonDaoTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.dao.PersonDaoTest.xml" />
     </list>
     <ignored path="HibernateJPATest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,7 +88,7 @@
       <file leaf-file-name="MenusDao.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="0" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.48723897">
+            <state line="38" column="0" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.7446808">
               <folding />
             </state>
           </provider>
@@ -916,7 +921,11 @@
       <created>1351667717600</created>
       <updated>1351667717600</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="i don't know what i do in this commit">
+      <created>1351692072033</created>
+      <updated>1351692072033</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -924,7 +933,7 @@
     <editor active="false" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18409818" sideWeight="0.67216724" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3278328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3278328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16275346" sideWeight="0.21892188" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -937,9 +946,9 @@
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24919957" sideWeight="0.32673267" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24919957" sideWeight="0.32673267" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18089648" sideWeight="0.6732673" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18089648" sideWeight="0.67216724" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967984" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16275346" sideWeight="0.6732673" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16275346" sideWeight="0.67216724" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32673267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="93" y="90" width="1734" height="868" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1156,7 +1165,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.48723897">
+        <state line="38" column="0" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.7446808">
           <folding />
         </state>
       </provider>
