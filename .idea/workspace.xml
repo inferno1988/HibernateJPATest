@@ -2,10 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79dcc723-e2a4-4a18-b434-2e4ca5c526e0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/images/ui-bg_diagonals-thick_15_0b3e6f_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/images/ui-bg_dots-medium_30_0b58a2_4x4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/images/ui-bg_dots-small_20_333333_2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/images/ui-bg_dots-small_30_a32d00_2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/images/ui-bg_dots-small_40_00498f_2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/images/ui-bg_flat_40_292929_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/images/ui-bg_gloss-wave_20_111111_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/images/ui-icons_00498f_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/images/ui-icons_98d2fb_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/images/ui-icons_9ccdfc_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/about-biker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/about-bikers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/bg-body.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/bg-body.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/buttons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/devider.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/event-biker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/event-bikers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/event-family.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/gallery-biker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/gallery-biker2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/gallery-boys.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/gallery-family.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/gallery-family2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/gallery-girls.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/home-biker-thumbnail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/home-biker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/home-bikers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/home-boys.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/home-family.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/home-girls.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/images/img-101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/WEB-INF/views/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/WEB-INF/views/main_menu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/WEB-INF/views/top_menu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/jquery-ui-1.9.0.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/dot-luv/jquery-ui-1.9.0.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/js/jquery-1.8.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/js/jquery-1.8.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/js/jquery-ui-1.9.0.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/js/jquery-ui-1.9.0.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/HibernateJPATest/resources/js/uiCreator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/HibernateJPATest.war" afterPath="$PROJECT_DIR$/target/HibernateJPATest.war" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HibernateJPATest.iml" afterPath="$PROJECT_DIR$/HibernateJPATest.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/News.java" afterPath="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/News.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/HibernateJPATest/WEB-INF/spring/db.xml" afterPath="$PROJECT_DIR$/target/HibernateJPATest/WEB-INF/spring/db.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/HibernateJPATest/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/HibernateJPATest/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/HibernateJPATest.controller.PersonControllerTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/HibernateJPATest.controller.PersonControllerTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/HibernateJPATest.dao.PersonDaoTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/HibernateJPATest.dao.PersonDaoTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.controller.HomeControllerTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.controller.HomeControllerTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.controller.PersonControllerTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.controller.PersonControllerTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.dao.PersonDaoTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.dao.PersonDaoTest.xml" />
     </list>
     <ignored path="HibernateJPATest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -120,10 +173,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="User.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="13" selection-start="263" selection-end="263" vertical-scroll-proportion="0.20385051">
+            <state line="13" column="13" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -882,7 +944,11 @@
       <created>1351611942972</created>
       <updated>1351611942972</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="i don't know what i do in this commit">
+      <created>1351612509504</created>
+      <updated>1351612509504</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1010,13 +1076,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/HibernateJPATest/dao/PersonDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="13" selection-start="625" selection-end="625" vertical-scroll-proportion="0.12180974">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HibernateJPATest/controller/PersonControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="13" selection-start="786" selection-end="786" vertical-scroll-proportion="0.11891279">
@@ -1122,7 +1181,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="263" selection-end="263" vertical-scroll-proportion="0.20385051">
+        <state line="13" column="13" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
