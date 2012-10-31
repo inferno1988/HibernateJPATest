@@ -3,6 +3,7 @@ package HibernateJPATest.dao;
 import HibernateJPATest.model.MenuEntry;
 import HibernateJPATest.model.Menus;
 import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
 import javax.persistence.EntityManager;

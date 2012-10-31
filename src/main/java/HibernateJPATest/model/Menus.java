@@ -19,7 +19,7 @@ public class Menus {
     @Id
     private Long id;
 
-    @ManyToMany(mappedBy = "menus", fetch = FetchType.EAGER)
+    @ManyToMany(mappedBy = "menus", fetch = FetchType.LAZY)
     private Collection<MenuEntry> menuEntries;
 
     @Basic
