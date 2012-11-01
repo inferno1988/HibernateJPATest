@@ -2,12 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79dcc723-e2a4-4a18-b434-2e4ca5c526e0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_acl_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_3_0_5_RELEASE.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/HibernateJPATest.war" afterPath="$PROJECT_DIR$/target/HibernateJPATest.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/HibernateJPATest_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/HibernateJPATest_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HibernateJPATest.iml" afterPath="$PROJECT_DIR$/HibernateJPATest.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java" afterPath="$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/HibernateJPATest/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/HibernateJPATest/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/HibernateJPATest/index.jsp" afterPath="$PROJECT_DIR$/target/HibernateJPATest/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/HibernateJPATest.controller.PersonControllerTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/HibernateJPATest.controller.PersonControllerTest.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/HibernateJPATest.dao.PersonDaoTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/HibernateJPATest.dao.PersonDaoTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.controller.HomeControllerTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.controller.HomeControllerTest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.controller.PersonControllerTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.controller.PersonControllerTest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.dao.PersonDaoTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-HibernateJPATest.dao.PersonDaoTest.xml" />
     </list>
@@ -76,19 +90,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MenuController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/controller/MenuController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MenusDao.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MenusDao.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="0" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.7446808">
+            <state line="43" column="18" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -114,20 +119,8 @@
       </file>
       <file leaf-file-name="db.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/db.xml">
-          <provider editor-type-id="com.intellij.spring.perspectives.SpringBeansStructureEditorProvider">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="75" selection-start="1685" selection-end="1685" vertical-scroll-proportion="-20.714285">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="News.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/News.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0">
+            <state line="17" column="25" selection-start="1097" selection-end="1117" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -154,27 +147,18 @@
       <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="30" column="0" selection-start="1662" selection-end="1662" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="web.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="24" selection-start="1742" selection-end="1742" vertical-scroll-proportion="0.0">
+            <state line="41" column="82" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.6432616">
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-            <state />
           </provider>
         </entry>
       </file>
@@ -191,15 +175,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MainMenuDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/MainMenu.java" />
         <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/MainMenuEntry.java" />
         <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MainMenuEntryDao.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/User.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenuEntryDao.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/db.xml" />
         <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/controller/MenuController.java" />
@@ -207,6 +188,9 @@
         <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/News.java" />
         <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Menus.java" />
         <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -228,6 +212,10 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="HibernateJPATest" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -315,6 +303,20 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HibernateJPATest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HibernateJPATest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -643,20 +645,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HibernateJPATest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HibernateJPATest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -674,12 +662,12 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="Persistence.ERD.MergeInherited" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="Persistence.ERD.MergeInherited" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="dynamic.classpath" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -751,24 +739,6 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -802,6 +772,24 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -819,16 +807,6 @@
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method>
-        <option name="BuildArtifacts" enabled="false" />
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
@@ -855,6 +833,16 @@
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method>
+        <option name="BuildArtifacts" enabled="false" />
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
@@ -925,30 +913,33 @@
       <created>1351692072033</created>
       <updated>1351692072033</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="i don't know what i do in this commit">
+      <created>1351692118343</created>
+      <updated>1351692118343</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-10" width="1934" height="1068" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18409818" sideWeight="0.67216724" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3278328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16275346" sideWeight="0.21892188" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3278328" sideWeight="0.49786553" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16275346" sideWeight="0.32563257" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3278328" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3278328" sideWeight="0.49839914" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24919957" sideWeight="0.32673267" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24919957" sideWeight="0.32673267" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18089648" sideWeight="0.67216724" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18036287" sideWeight="0.6732673" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967984" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16275346" sideWeight="0.67216724" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16221985" sideWeight="0.6732673" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32673267" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="93" y="90" width="1734" height="868" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -959,6 +950,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hibernate Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5326689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1053,30 +1045,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/HibernateJPATest/controller/PersonControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="786" selection-end="786" vertical-scroll-proportion="0.11891279">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/HibernateJPATest/controller/DataInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="361" selection-end="361" vertical-scroll-proportion="0.101925254">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/app/servlet-context.xml">
-      <provider editor-type-id="com.intellij.spring.perspectives.SpringBeansStructureEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/controller/PersonController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="40" selection-start="817" selection-end="817" vertical-scroll-proportion="0.0" />
@@ -1084,26 +1052,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/controller/MenuController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="33" column="0" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/PersonDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="27" column="0" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/app/controllers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="936" selection-end="936" vertical-scroll-proportion="-8.571428" />
+      </provider>
       <provider editor-type-id="com.intellij.spring.perspectives.SpringBeansStructureEditorProvider">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="936" selection-end="936" vertical-scroll-proportion="-8.571428">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="javaeeDummy://JavaeeElement:/a29abc2e/acme/HibernateJPATest/jpa/JPA/PersistenceModel">
@@ -1111,63 +1073,174 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/db.xml">
-      <provider editor-type-id="com.intellij.spring.perspectives.SpringBeansStructureEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="75" selection-start="1685" selection-end="1685" vertical-scroll-proportion="-20.714285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/News.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="27" column="0" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/HibernateJPATest:HibernateJPATest:1.0">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>HibernateJPATest:HibernateJPATest:1.0</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-web:jar:3.0.5.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-aop:jar:3.0.5.RELEASE/org.springframework:spring-asm:jar:3.0.5.RELEASE</node>
+            <node x="" y="">javax.servlet:jstl:jar:1.1.2</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.5.10/org.slf4j:slf4j-api:jar:1.5.10</node>
+            <node x="" y="">org.slf4j:slf4j-api:jar:1.5.10</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/org.hibernate:hibernate-core:jar:3.6.0.Final/dom4j:dom4j:jar:1.6.1</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-web:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-validator:jar:4.0.0.GA/javax.xml.bind:jaxb-api:jar:2.1/javax.activation:activation:jar:1.1</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-beans:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE/org.springframework:spring-asm:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:1.0.0.Final</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.0.5.RELEASE/org.springframework:spring-tx:jar:3.0.5.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-context:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/org.hibernate:hibernate-core:jar:3.6.0.Final</node>
+            <node x="" y="">org.hibernate:hibernate-validator:jar:4.0.0.GA/com.sun.xml.bind:jaxb-impl:jar:2.1.3</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/org.hibernate:hibernate-core:jar:3.6.0.Final/org.hibernate:hibernate-commons-annotations:jar:3.2.0.Final/org.slf4j:slf4j-api:jar:1.5.8</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/org.hibernate:hibernate-core:jar:3.6.0.Final/org.slf4j:slf4j-api:jar:1.6.1</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-aop:jar:3.0.5.RELEASE/org.springframework:spring-beans:jar:3.0.5.RELEASE</node>
+            <node x="" y="">junit:junit:jar:4.8.2</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:5.1.9</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.0.5.RELEASE/org.springframework:spring-tx:jar:3.0.5.RELEASE/org.springframework:spring-aop:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-context-support:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-asm:jar:3.0.5.RELEASE</node>
+            <node x="" y="">log4j:log4j:jar:1.2.15/javax.mail:mail:jar:1.4</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.5.10</node>
+            <node x="" y="">org.slf4j:jcl-over-slf4j:jar:1.5.10/org.slf4j:slf4j-api:jar:1.5.10</node>
+            <node x="" y="">commons-dbcp:commons-dbcp:jar:20030825.184428</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/org.hibernate:hibernate-core:jar:3.6.0.Final/org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:1.0.0.Final</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-context-support:jar:3.0.5.RELEASE/org.springframework:spring-beans:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-asm:jar:3.0.5.RELEASE</node>
+            <node x="" y="">hsqldb:hsqldb:jar:1.8.0.10</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/org.hibernate:hibernate-core:jar:3.6.0.Final/commons-collections:commons-collections:jar:3.1</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.0.5.RELEASE/org.springframework:spring-jdbc:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE</node>
+            <node x="" y="">log4j:log4j:jar:1.2.15</node>
+            <node x="" y="">org.hibernate:hibernate-validator:jar:4.0.0.GA/org.slf4j:slf4j-api:jar:1.5.6</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-web:jar:3.0.5.RELEASE/org.springframework:spring-beans:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/org.hibernate:hibernate-core:jar:3.6.0.Final/antlr:antlr:jar:2.7.6</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.0.5.RELEASE/org.springframework:spring-jdbc:jar:3.0.5.RELEASE</node>
+            <node x="" y="">log4j:log4j:jar:1.2.15/javax.mail:mail:jar:1.4/javax.activation:activation:jar:1.1</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-web:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-aop:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-expression:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/org.hibernate:hibernate-core:jar:3.6.0.Final/javax.transaction:jta:jar:1.1</node>
+            <node x="" y="">org.springframework:spring-test:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-aop:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-context-support:jar:3.0.5.RELEASE/org.springframework:spring-context:jar:3.0.5.RELEASE</node>
+            <node x="" y="">commons-pool:commons-pool:jar:20030825.183949</node>
+            <node x="" y="">org.slf4j:jcl-over-slf4j:jar:1.5.10</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/org.slf4j:slf4j-api:jar:1.6.1</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.0.5.RELEASE/org.springframework:spring-jdbc:jar:3.0.5.RELEASE/org.springframework:spring-tx:jar:3.0.5.RELEASE</node>
+            <node x="" y="">log4j:log4j:jar:1.2.15/javax.jms:jms:jar:1.1</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-aop:jar:3.0.5.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/org.hibernate:hibernate-core:jar:3.6.0.Final/org.hibernate:hibernate-commons-annotations:jar:3.2.0.Final</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.0.5.RELEASE/org.springframework:spring-tx:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.0.5.RELEASE/org.springframework:spring-beans:jar:3.0.5.RELEASE</node>
+            <node x="" y="">HibernateJPATest:HibernateJPATest:1.0</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.0.5.RELEASE/org.springframework:spring-tx:jar:3.0.5.RELEASE/org.springframework:spring-context:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-context-support:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/javassist:javassist:jar:3.12.0.GA</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-beans:jar:3.0.5.RELEASE/org.springframework:spring-core:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:1.0.0.Final</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.0.5.RELEASE/org.springframework:spring-tx:jar:3.0.5.RELEASE/org.springframework:spring-beans:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-validator:jar:4.0.0.GA/javax.validation:validation-api:jar:1.0.0.GA</node>
+            <node x="" y="">org.springframework:spring-context:jar:3.0.5.RELEASE/org.springframework:spring-expression:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-validator:jar:4.0.0.GA</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.5.10/log4j:log4j:jar:1.2.14</node>
+            <node x="" y="">javax.validation:validation-api:jar:1.0.0.GA</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-expression:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/cglib:cglib:jar:2.2/asm:asm:jar:3.1</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.0.5.RELEASE/org.springframework:spring-tx:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-entitymanager:jar:3.6.0.Final/cglib:cglib:jar:2.2</node>
+            <node x="" y="">org.springframework:spring-orm:jar:3.0.5.RELEASE/org.springframework:spring-jdbc:jar:3.0.5.RELEASE/org.springframework:spring-beans:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.hibernate:hibernate-validator:jar:4.0.0.GA/javax.xml.bind:jaxb-api:jar:2.1</node>
+            <node x="" y="">org.hibernate:hibernate-validator:jar:4.0.0.GA/com.sun.xml.bind:jaxb-impl:jar:2.1.3/javax.xml.bind:jaxb-api:jar:2.1</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-beans:jar:3.0.5.RELEASE</node>
+            <node x="" y="">org.springframework:spring-webmvc:jar:3.0.5.RELEASE/org.springframework:spring-web:jar:3.0.5.RELEASE/org.springframework:spring-context:jar:3.0.5.RELEASE</node>
+            <node x="" y="">taglibs:standard:jar:1.1.2</node>
+            <node x="" y="">org.hibernate:hibernate-validator:jar:4.0.0.GA/javax.xml.bind:jaxb-api:jar:2.1/javax.xml.stream:stax-api:jar:1.0-2</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9443163097199339" x="509.0" y="1390.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Person.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/MenuEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Menus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="34" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="115" column="34" selection-start="4036" selection-end="4036" vertical-scroll-proportion="0.74745184" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.7446808">
+        <state line="43" column="18" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Menus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="34" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/MenuEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/db.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="25" selection-start="1097" selection-end="1117" vertical-scroll-proportion="0.0">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.spring.perspectives.SpringBeansStructureEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="1662" selection-end="1662" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="82" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.6432616">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
       </provider>
     </entry>
   </component>

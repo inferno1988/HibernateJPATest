@@ -28,8 +28,6 @@
 						You can remove any link to our website from this website template, you're free to use this website template without linking back to us.
 					</p>
 					<p>Looking for more templates? Just browse through all our <a href="http://www.freewebsitetemplates.com/">Free Website Templates</a> and find what you&acute;re looking for. But if you don&acute;t find any website template you can use, you can try our <a href="http://www.freewebsitetemplates.com/freewebdesign/">Free Web Design</a> service and tell us all about it.</p>
-                    <c:import url="//main/1234"/>
-
 				</div> <!-- end of featured -->
 
 				<div class="section" > <!-- srtart of gallery and article section -->

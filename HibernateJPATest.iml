@@ -9,6 +9,10 @@
         <webroots>
           <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+          <root url="file://$MODULE_DIR$/src/main/resources" />
+        </sourceRoots>
       </configuration>
     </facet>
     <facet type="jpa" name="JPA">
@@ -80,6 +84,13 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:3.0.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:3.0.5.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:3.0.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-web:3.0.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-core:3.0.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjrt:1.6.8" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjweaver:1.6.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-config:3.0.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-taglibs:3.0.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.security:spring-security-acl:3.0.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: commons-dbcp:commons-dbcp:20030825.184428" level="project" />
     <orderEntry type="library" name="Maven: commons-pool:commons-pool:20030825.183949" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.9" level="project" />
