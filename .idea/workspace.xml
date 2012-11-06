@@ -2,7 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79dcc723-e2a4-4a18-b434-2e4ca5c526e0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/images/ui-bg_diagonals-thick_15_0b3e6f_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/images/ui-bg_dots-medium_30_0b58a2_4x4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/images/ui-bg_dots-small_20_333333_2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/images/ui-bg_dots-small_30_a32d00_2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/images/ui-bg_dots-small_40_00498f_2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/images/ui-bg_flat_40_292929_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/images/ui-bg_gloss-wave_20_111111_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/images/ui-icons_00498f_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/images/ui-icons_98d2fb_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/images/ui-icons_9ccdfc_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/about-biker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/about-bikers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/bg-body.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/bg-body.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/buttons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/devider.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/event-biker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/event-bikers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/event-family.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/gallery-biker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/gallery-biker2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/gallery-boys.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/gallery-family.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/gallery-family2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/gallery-girls.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/home-biker-thumbnail.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/home-biker.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/home-bikers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/home-boys.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/home-family.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/home-girls.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/img-101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_acl_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_3_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/HibernateJPATest/controller/MenuController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main_menu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/top_menu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/jquery-ui-1.9.0.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/dot-luv/jquery-ui-1.9.0.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery-1.8.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery-1.8.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery-ui-1.9.0.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery-ui-1.9.0.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/uiCreator.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenuEntryDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/HibernateJPATest_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/HibernateJPATest_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HibernateJPATest.iml" afterPath="$PROJECT_DIR$/HibernateJPATest.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java" afterPath="$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/MenuEntry.java" afterPath="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/MenuEntry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Menus.java" afterPath="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Menus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/News.java" afterPath="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/News.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/db.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/db.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
     </list>
     <ignored path="HibernateJPATest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,25 +139,16 @@
       <file leaf-file-name="MenusDao.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0">
+            <state line="45" column="0" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Menus.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Menus.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Menus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="13" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MenuEntryDao.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenuEntryDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="871" selection-end="871" vertical-scroll-proportion="0.82191783">
+            <state line="14" column="13" selection-start="315" selection-end="315" vertical-scroll-proportion="0.029354207">
               <folding />
             </state>
           </provider>
@@ -99,7 +157,7 @@
       <file leaf-file-name="MenuEntry.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/MenuEntry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="13" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
+            <state line="15" column="13" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -121,7 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
         <option value="$PROJECT_DIR$/src/test/resources/db.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/db.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/test-db.xml" />
@@ -137,6 +194,7 @@
         <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/News.java" />
         <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenuEntryDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Menus.java" />
       </list>
     </option>
   </component>
@@ -699,7 +757,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3279099" sideWeight="0.50053364" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3279099" sideWeight="0.50053364" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -873,17 +931,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenusDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Menus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" />
+        <state line="45" column="0" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/MenuEntry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" />
+        <state line="15" column="13" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -891,9 +948,9 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/dao/MenuEntryDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/HibernateJPATest/model/Menus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="871" selection-end="871" vertical-scroll-proportion="0.82191783">
+        <state line="14" column="13" selection-start="315" selection-end="315" vertical-scroll-proportion="0.029354207">
           <folding />
         </state>
       </provider>

@@ -22,6 +22,8 @@ public class MenuEntry {
     @Column
     private String href;
 
+    @ManyToMany
+    private Collection<Menus> menus;
 
     public Long getId() {
         return id;
@@ -77,9 +79,6 @@ public class MenuEntry {
         result = 31 * result + href.hashCode();
         return result;
     }
-
-    @ManyToMany
-    private Collection<Menus> menus;
 
     public Collection<Menus> getMenus() {
         return menus;
