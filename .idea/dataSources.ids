@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><component name="dataSourceStorage">
+  <data-source source="LOCAL" name="dataSource" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="0e2d9291-5d0e-48e1-b6f6-bae7874d1f24">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://192.168.33.116/jblog</jdbc-url>
+    <user-name>atom</user-name>
+    <user-password>dfdadfcbdf9bdfc6dfcbdf98dfc7dfcbdf99</user-password>
+    <libraries>
+      <library>
+        <url>jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.9/mysql-connector-java-5.1.9.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
