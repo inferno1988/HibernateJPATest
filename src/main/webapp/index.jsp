@@ -13,10 +13,8 @@
 <body>
 	<div id="page">
         <c:import url="/uiBuilder/menu/topMenu"/>
-
-        <%@ include file="WEB-INF/views/main_menu.jsp"%>
-
-		<div id="body">  
+        <c:import url="/uiBuilder/menu/mainMenu"/>
+		<div id="body">
 			<div id="main">
 				<h2>Привіт, я Java програміст з міста Умань.</h2>
                 <h3>А тепер трішки про мене.</h3>

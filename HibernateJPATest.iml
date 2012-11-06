@@ -20,11 +20,7 @@
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="" />
         <datasource-mapping>
-<<<<<<< HEAD
-          <factory-entry name="acme" value="0e2d9291-5d0e-48e1-b6f6-bae7874d1f24" />
-=======
-          <factory-entry name="acme" value="c040bee6-28ef-48aa-9613-40d5e0697405" />
->>>>>>> a7721a9cc376751602c706ade8852fabab9f1ed9
+          <factory-entry name="acme" value="8edc079c-d8ad-41a6-a252-e778197f47af" />
           <factory-entry name="entityManagerFactory" />
         </datasource-mapping>
         <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/src/main/resources/META-INF/persistence.xml" />
@@ -33,12 +29,12 @@
     <facet type="Spring" name="Spring">
       <configuration>
         <fileset id="fileset1" name="Xml Application Context" removed="false">
-          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml</file>
           <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/app/controllers.xml</file>
-          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/db.xml</file>
-          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/app/servlet-context.xml</file>
           <file>file://$MODULE_DIR$/src/test/resources/test-context.xml</file>
           <file>file://$MODULE_DIR$/src/test/resources/test-db.xml</file>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/app/servlet-context.xml</file>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/db.xml</file>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml</file>
         </fileset>
       </configuration>
     </facet>

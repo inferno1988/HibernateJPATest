@@ -35,6 +35,14 @@ public class MenuController {
         logger.info("Building top menu");
         Collection<MenuEntry> menuContainer = menusDao.getAllMenuEntriesByMenuName("topMenu");
         model.addAttribute("menuItems", menuContainer);
-        return "top_menu";
+        return "topMenuView";
+    }
+
+    @RequestMapping("/mainMenu")
+    public String generateMainMenu(Model model) {
+        logger.info("Building top menu");
+        Collection<MenuEntry> menuContainer = menusDao.getAllMenuEntriesByMenuName("mainMenu");
+        model.addAttribute("menuItems", menuContainer);
+        return "mainMenuView";
     }
 }
