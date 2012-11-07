@@ -9,32 +9,25 @@
         <webroots>
           <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
         </webroots>
-        <sourceRoots>
-          <root url="file://$MODULE_DIR$/src/main/java" />
-          <root url="file://$MODULE_DIR$/src/main/resources" />
-        </sourceRoots>
       </configuration>
     </facet>
     <facet type="jpa" name="JPA">
       <configuration>
         <setting name="validation-enabled" value="true" />
         <setting name="provider-name" value="" />
-        <datasource-mapping>
-          <factory-entry name="acme" value="8edc079c-d8ad-41a6-a252-e778197f47af" />
-          <factory-entry name="entityManagerFactory" />
-        </datasource-mapping>
+        <datasource-mapping />
         <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/src/main/resources/META-INF/persistence.xml" />
       </configuration>
     </facet>
     <facet type="Spring" name="Spring">
       <configuration>
         <fileset id="fileset1" name="Xml Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml</file>
           <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/app/controllers.xml</file>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/db.xml</file>
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/app/servlet-context.xml</file>
           <file>file://$MODULE_DIR$/src/test/resources/test-context.xml</file>
           <file>file://$MODULE_DIR$/src/test/resources/test-db.xml</file>
-          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/app/servlet-context.xml</file>
-          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/db.xml</file>
-          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml</file>
         </fileset>
       </configuration>
     </facet>
