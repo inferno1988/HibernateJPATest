@@ -1,5 +1,7 @@
 package HibernateJPATest.model;
 
+import org.springframework.transaction.annotation.Transactional;
+
 import javax.persistence.*;
 import java.util.Collection;
 
@@ -12,10 +14,17 @@ import java.util.Collection;
  */
 @Entity
 public class Menus {
-    private Long id;
 
     @GeneratedValue
     @Id
+    private Long id;
+
+    @ManyToMany(mappedBy = "menus", fetch = FetchType.LAZY)
+    private Collection<MenuEntry> menuEntries;
+
+    @Basic
+    private String name;
+
     public Long getId() {
         return id;
     }
@@ -24,9 +33,6 @@ public class Menus {
         this.id = id;
     }
 
-    private String name;
-
-    @Basic
     public String getName() {
         return name;
     }
@@ -35,9 +41,6 @@ public class Menus {
         this.name = name;
     }
 
-    private Collection<MenuEntry> menuEntries;
-
-    @ManyToMany(mappedBy = "menus")
     public Collection<MenuEntry> getMenuEntries() {
         return menuEntries;
     }

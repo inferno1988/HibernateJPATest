@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="HibernateJPATest:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="HibernateJPATest.war">
-      <element id="artifact" artifact-name="HibernateJPATest:war exploded" />
-    </root>
-  </artifact>
-</component>

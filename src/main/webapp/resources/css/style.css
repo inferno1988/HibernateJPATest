@@ -1,0 +1,468 @@
+
+body {
+    background: url("../images/bg-body.png") no-repeat scroll center top rgba(255, 255, 255, 0.99);
+    color: #000000;
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+    margin: 0;
+}
+#page {
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 940px;
+}
+#header div a.join, #header ul li a:hover, #sidebar input.button {
+}
+#header {
+    height: 60px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    text-align: left;
+    width: 940px;
+}
+
+#header ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+#header ul li {
+    float: left;
+    line-height: 60px;
+    list-style-type: none;
+    text-align: center;
+}
+#header ul li a {
+    color: #405A3D;
+    display: block;
+    height: 60px;
+    text-decoration: none;
+    width: 72px;
+}
+#header ul li a:hover, #header ul li.current {
+    background-position: 0 0;
+    font-weight: 600;
+}
+#top_menu  {
+    height: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: right;
+    width: 940px;
+}
+
+#top_menu ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+#top_menu ul li {
+    float: left;
+    line-height: 60px;
+    list-style-type: none;
+    text-align: center;
+}
+
+#top_menu ul li a {
+    color: #ffffff;
+    display: block;
+    height: 60px;
+    text-decoration: none;
+    width: 72px;
+}
+
+#header div img {
+    margin-right: 11px;
+}
+#header div h3 {
+    font-weight: normal;
+    margin: 0;
+}
+#header div p {
+    display: inline-block;
+    font-size: 1.28em;
+    margin: 0;
+}
+#body {
+    display: inline-block;
+    margin: 0;
+}
+#body p {
+    font-size: 15px;
+    line-height: 22px;
+    margin: 0;
+    padding: 0 0 10px;
+    text-align: justify;
+}
+#body a {
+    color: #FFFFFF;
+    font-weight: bold;
+    outline: medium none;
+    text-decoration: none;
+}
+#main {
+    float: left;
+    margin-right: 40px;
+    width: 600px;
+}
+#main h2 {
+    color: #5A6320;
+    margin: 0 0 10px;
+    text-align: left;
+}
+
+#main h3 {
+    color: #5A6320;
+    margin: 0 0 10px;
+    text-align: left;
+    font-style: italic;
+}
+
+#main .featured {
+    background-color: #ffffff;
+    border: 1px solid #537050;
+    border-radius: 6px 6px 6px 6px;
+    padding: 10px 10px 0;
+}
+#main .featured img {
+    margin: 8px;
+}
+#main .featured p {
+    margin: 0;
+    padding-bottom: 20px;
+}
+#main .section {
+    display: inline-block;
+    padding-top: 18px;
+}
+#main .section h3 {
+    color: #5A6320;
+    margin: 0 0 8px;
+}
+#main .section ul {
+    list-style-type: none;
+    padding: 0;
+}
+#gallery, #events {
+    float: left;
+    overflow: hidden;
+    width: 300px;
+}
+#gallery h3, #events h3 {
+    margin-bottom: 8px;
+}
+#gallery a.more, #events a.more {
+    color: #FFFFFF;
+    float: right;
+    font-size: 0.9em;
+    font-weight: normal;
+    text-decoration: none;
+}
+#gallery ul {
+    display: inline-block;
+    margin: 0;
+}
+#gallery li {
+    float: left;
+    margin: 10px 20px 6px 0;
+}
+#gallery li img {
+    border: 1px solid #537050;
+}
+#gallery a.more {
+    margin-right: 24px;
+}
+#events ul {
+    margin: 0 0 10px;
+}
+#events ul li {
+    border-bottom: 1px dashed #FFFFFF;
+    font-size: 0.95em;
+    padding: 10px 0;
+    text-align: justify;
+}
+#events ul li.last {
+    border: 0 none;
+}
+#sidebar {
+    float: right;
+    width: 300px;
+}
+#sidebar h3 {
+    font-weight: 500;
+    margin: 0 0 10px;
+    width: 260px;
+}
+#sidebar h3 a {
+    color: #5A6320;
+}
+#sidebar h2 a {
+    color: #5A6320;
+    outline: medium none;
+    text-decoration: none;
+}
+#sidebar ul {
+    margin: 0;
+    padding: 0;
+}
+#sidebar ul li {
+    background: url("../images/devider.jpg") no-repeat scroll center bottom transparent;
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+#sidebar ul li:last-child {
+    background: none repeat scroll 0 0 transparent;
+}
+#sidebar ul li p {
+    margin: 16px 0 0;
+    padding-bottom: 20px;
+}
+#sidebar input.button {
+    background-position: 0 -172px;
+    border: 0 none;
+    cursor: pointer;
+    float: right;
+    height: 24px;
+    margin: 0 10px 0 0;
+    padding: 0;
+    width: 69px;
+}
+#sidebar input {
+    color: #405A3D;
+    height: 40px;
+    margin-bottom: 10px;
+    width: 288px;
+}
+#sidebar textarea {
+    color: #405A3D;
+    height: 95px;
+    margin-bottom: 10px;
+    width: 288px;
+}
+#sidebar table {
+    margin-bottom: 20px;
+}
+#body .contents {
+    background-color: #FFFFFF;
+    border: 1px solid #405A3D;
+    border-radius: 6px 6px 6px 6px;
+    display: inline-block;
+    margin-bottom: 20px;
+    min-height: 870px;
+    padding: 10px 19px;
+}
+#body .contents .main {
+    float: left;
+    padding-right: 15px;
+    width: 575px;
+}
+#body .contents .sidebar {
+    float: right;
+    padding-left: 10px;
+    width: 280px;
+}
+#body .contents .sidebar h3 {
+    color: #5A6320;
+    font-weight: 500;
+    margin: 10px 0 6px;
+    width: 260px;
+}
+#body .contents h1 {
+    color: #5A6320;
+    margin-bottom: 20px;
+}
+#body .contents h2 {
+    color: #5A6320;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+#body .contents h3 {
+    color: #5A6320;
+    font-weight: 500;
+    margin: 10px 0 6px;
+    padding: 0;
+}
+#body .contents ul {
+    display: inline-block;
+    margin: 20px 0;
+    padding: 0;
+}
+#body .contents ul.aboutus li {
+    float: left;
+    list-style-type: none;
+    width: 450px;
+}
+#body .contents ul.articles li {
+    height: 150px;
+    list-style-type: none;
+    margin: 0 0 20px;
+}
+#body .contents ul.articles li h3 {
+    font-size: 1.15em;
+    margin-top: 0;
+}
+#body .contents ul.articles li img {
+    float: left;
+    margin-right: 20px;
+}
+#body .contents div.gallery {
+    margin: 20px 0;
+    overflow: hidden;
+    width: 900px;
+}
+#body .contents div.gallery ul {
+    width: 925px;
+}
+#body .contents div.gallery ul li {
+    float: left;
+    height: 355px;
+    list-style-type: none;
+    margin: 0 26px 30px 0;
+    padding: 0;
+    width: 282px;
+}
+#body .contents div.gallery ul li a img {
+    border: 1px solid #000000;
+}
+#body .contents div.gallery ul li h4 {
+    color: #5A6320;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+#body .contents div.gallery ul li p {
+    font-size: 0.9em;
+    text-align: left;
+}
+#body .contents div.blogs {
+    display: inline-block;
+}
+#body .contents div.blogs div {
+    float: left;
+    padding-right: 20px;
+    width: 580px;
+}
+#body .contents div.blogs div h2 {
+    color: #5A6320;
+}
+#body .contents div.blogs ul {
+    float: left;
+    list-style-type: none;
+    margin: 20px 0 0;
+    width: 300px;
+}
+#body .contents div.blogs ul li h3 {
+    color: #5A6320;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#body .contents div.blogs ul li h3 span {
+    font-size: 0.92em;
+    font-weight: normal;
+}
+#body .contents div.registration form table {
+    border-collapse: separate;
+    margin-top: 20px;
+}
+#body .contents div.registration form table tbody tr td {
+    padding: 5px;
+    vertical-align: top;
+}
+#body .contents div.registration form table tbody tr td input.txtfield {
+    height: 26px;
+    line-height: 26px;
+    margin: 0;
+    padding: 2px;
+    width: 298px;
+}
+#body .contents div.registration form table tbody tr td input.checkbox {
+    border: 0 none;
+    margin-right: 8px;
+    padding: 0;
+}
+#body .contents div.registration form table tbody tr td textarea {
+    height: 52px;
+    width: 298px;
+}
+#body .contents div.registration form table tbody tr td input.button {
+    background-color: #785339;
+    border: 0 none;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin: 0;
+    padding: 4px 10px;
+}
+#body .contents div.registration form table tbody tr td input.button:hover {
+    color: #FFFFFF;
+}
+#footer {
+    background-color: #FFFFFF;
+    height: 60px;
+    left: 0;
+    line-height: 60px;
+    margin: 0;
+    position: absolute;
+    width: 100%;
+}
+#footer div {
+    color: #000000;
+    font-size: 0.8em;
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 940px;
+}
+#footer a {
+    color: #000000;
+    outline: medium none;
+    text-decoration: none;
+}
+#footer a:hover {
+    color: #FFFFFF;
+}
+#footer ul {
+    float: left;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    width: 210px;
+}
+#footer ul li {
+    float: left;
+    height: 30px;
+    list-style-type: none;
+    margin-right: 20px;
+    padding: 15px 0;
+}
+#footer ul li a.fb, #footer ul li a.twitr {
+    background: url("../images/icons.gif") no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 30px;
+    line-height: 30px;
+}
+#footer ul li a.fb {
+    background-position: 0 0;
+    padding-left: 35px;
+    width: 57px;
+}
+#footer ul li a.twitr {
+    background-position: 0 -40px;
+    padding-left: 40px;
+    width: 37px;
+}
+#footer span {
+    display: block;
+    float: right;
+    line-height: 60px;
+    width: 335px;
+}
+img {
+    border: 0 none;
+}
+#header ul {
+}
+#header ul {
+}
+#header ul li {
+}
+#body .contents {
+}
