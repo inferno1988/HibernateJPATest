@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="3.274" errors="0" skipped="0" tests="2" name="HibernateJPATest.controller.PersonControllerTest">
+<testsuite failures="0" time="4.292" errors="0" skipped="0" tests="2" name="HibernateJPATest.controller.PersonControllerTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/home/atom/Downloads/jdk1.7.0_09/jre/lib/amd64"/>
@@ -9,7 +9,7 @@
     <property name="path.separator" value=":"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
     <property name="file.encoding.pkg" value="sun.io"/>
-    <property name="idea.launcher.port" value="7534"/>
+    <property name="idea.launcher.port" value="7532"/>
     <property name="user.country" value="UA"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
@@ -59,6 +59,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="2.833" classname="HibernateJPATest.controller.PersonControllerTest" name="shouldReturnPersonListView"/>
-  <testcase time="0.065" classname="HibernateJPATest.controller.PersonControllerTest" name="shouldReturnSecondPersonWithEditMav"/>
+  <testcase time="3.738" classname="HibernateJPATest.controller.PersonControllerTest" name="shouldReturnPersonListView"/>
+  <testcase time="0.101" classname="HibernateJPATest.controller.PersonControllerTest" name="shouldReturnSecondPersonWithEditMav"/>
 </testsuite>

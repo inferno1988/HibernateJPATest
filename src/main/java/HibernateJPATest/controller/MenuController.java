@@ -10,6 +10,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.Collection;
 
@@ -44,5 +45,10 @@ public class MenuController {
         Collection<MenuEntry> menuContainer = menusDao.getAllMenuEntriesByMenuName("mainMenu");
         model.addAttribute("menuItems", menuContainer);
         return "mainMenuView";
+    }
+    @RequestMapping("/addMenu")
+    public String addMenu(@RequestParam(value="name",required=true) String name, Model model) {
+        menusDao.createNewMenu(name);
+        return "redirect:/";
     }
 }

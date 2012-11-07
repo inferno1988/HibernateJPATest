@@ -44,4 +44,12 @@ public class MenusDao {
         Collection<MenuEntry>  menuEntries = menu.getMenuEntries();
         return menuEntries;
     }
+
+    @Transactional
+    public Menus createNewMenu(String name) {
+        Menus menu = new Menus();
+        menu.setName(name);
+        entityManager.persist(menu);
+        return  menu;
+    }
 }
