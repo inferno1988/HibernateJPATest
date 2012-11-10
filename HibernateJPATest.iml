@@ -21,7 +21,7 @@
         <setting name="provider-name" value="" />
         <datasource-mapping>
           <factory-entry name="acme" />
-          <factory-entry name="entityManagerFactory" value="dataSource" />
+          <factory-entry name="entityManagerFactory" value="b2a2efaf-0daa-4ca0-b03e-3722d6dee4d7" />
         </datasource-mapping>
         <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/src/main/resources/META-INF/persistence.xml" />
       </configuration>

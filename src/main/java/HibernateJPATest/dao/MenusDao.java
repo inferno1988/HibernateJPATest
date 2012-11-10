@@ -52,4 +52,14 @@ public class MenusDao {
         entityManager.persist(menu);
         return  menu;
     }
+
+    @Transactional
+    public Menus addMenu(Menus menu) {
+        if (menu.getId() == null) {
+            entityManager.persist(menu);
+            return menu;
+        } else {
+            return entityManager.merge(menu);
+        }
+    }
 }
